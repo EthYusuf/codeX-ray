@@ -1,0 +1,7 @@
+{
+  "name": "CodeX-Ray - AI-Powered GitHub Repository Intelligence",
+  "description": "Deep architectural, security, dependency, code quality analysis and AI-assisted code fixing with PR generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
